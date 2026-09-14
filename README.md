@@ -40,6 +40,5 @@ An interactive business intelligence dashboard analyzing Superstore sales data i
 2. Open in Power BI Desktop
 3. Explore the interactive dashboard
 
-## 👤 Author
-**Muhammad Abdul Rehman**
-BS Data Science - UET Lahore
+## Author
+Muhammad Abdul Rehman
